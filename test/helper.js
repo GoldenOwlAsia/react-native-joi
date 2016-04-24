@@ -2,7 +2,7 @@
 
 // Load modules
 
-const chai = require('chai');
+const Code = require('code');
 const Joi = require('../');
 
 
@@ -13,7 +13,7 @@ const internals = {};
 
 // Test shortcuts
 
-const expect = chai.expect;
+const expect = Code.expect;
 
 
 exports.validate = function (schema, config, callback) {
