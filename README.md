@@ -2,7 +2,11 @@
 
 This is directly ported from `hapi/joi` but removed `hoek` and some methods to make it works with React Native.
 
-Some methods that belongs to `Hoek` are moved into `patch.js`. 
+## Notable changes
+
+ - Some methods that belongs to `Hoek` are moved into `patch.js`
+ - It uses `email-validator` instead of `Iseamil`
+ - `Topo` is copied and put into this package rather than separate package
 
 ![joi Logo](https://raw.github.com/hapijs/joi/master/images/joi.png)
 

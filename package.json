@@ -1,7 +1,7 @@
 {
   "name": "react-native-joi",
   "description": "Object schema validation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/thethanghn/react-native-joi.git",
   "repository": "git@github.com:thethanghn/react-native-joi.git",
   "main": "lib/index.js",
@@ -18,7 +18,6 @@
     "buffer": "^4.6.0",
     "email-validator": "^1.0.4",
     "ip-validator": "^0.0.1",
-    "isemail": "2.x.x",
     "lodash": "^4.11.1",
     "moment": "2.x.x",
     "util": "^0.10.3"
