@@ -15,12 +15,11 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "chai": "^3.5.0",
-    "ip-validator": "0.0.1",
+    "email-validator": "^1.0.4",
+    "ip-validator": "^0.0.1",
     "isemail": "2.x.x",
     "lodash": "^4.11.1",
     "moment": "2.x.x",
-    "topo": "2.x.x",
     "util": "^0.10.3"
   },
   "devDependencies": {
