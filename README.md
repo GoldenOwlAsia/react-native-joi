@@ -1,3 +1,9 @@
+# Disclaimer
+
+This is directly ported from `hapi/joi` but removed `hoek` and some methods to make it works with React Native.
+
+Some methods that belongs to `Hoek` are moved into `patch.js`. 
+
 ![joi Logo](https://raw.github.com/hapijs/joi/master/images/joi.png)
 
 Object schema description language and validator for JavaScript objects.
