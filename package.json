@@ -1,12 +1,13 @@
 {
   "name": "react-native-joi",
   "description": "Object schema validation",
-  "version": "0.0.3",
-  "homepage": "https://github.com/thethanghn/react-native-joi.git",
-  "repository": "git@github.com:thethanghn/react-native-joi.git",
+  "version": "0.0.4",
+  "homepage": "https://github.com/GoldenOwlAsia/react-native-joi.git",
+  "repository": "git@github.com:GoldenOwlAsia/react-native-joi.git",
   "main": "lib/index.js",
   "keywords": [
     "hapi",
+    "joi",
     "schema",
     "validation",
     "react native"
