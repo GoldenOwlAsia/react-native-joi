@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/react-native-joi.svg)](https://badge.fury.io/js/react-native-joi)
+
 # Disclaimer
 
 This is directly ported from `hapi/joi` but removed `hoek` and some methods to make it works with React Native.
